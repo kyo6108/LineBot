@@ -8,8 +8,6 @@ public class LineBotApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LineBotApplication.class, args);
-        String a = "";
-
     }
 
 }
